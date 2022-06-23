@@ -1,0 +1,10 @@
+/* style for the header div*/
+
+#first-div {
+    position:relative;
+  }
+  a{
+    list-style: none;
+    color: #000;
+    text-decoration: none;
+  }
