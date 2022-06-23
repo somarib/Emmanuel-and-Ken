@@ -8,3 +8,21 @@
     color: #000;
     text-decoration: none;
   }
+/* Header style */
+  header {
+    position: fixed;
+    top: 0;
+    min-height: 75px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #eee;
+    display: inline-block;
+    width:100%;
+  }
+  @media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
